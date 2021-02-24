@@ -1,0 +1,6 @@
+[user]
+	name = Basant Soni
+	email = basantech89@gmail.com
+[core]
+	autocrlf = false
+	editor = vim

@@ -1,0 +1,73 @@
+*.font: xft:Overpass Mono:size=10
+
+!! Set a default font and font size as below:
+st.font: Meslo LG L DZ for Powerline-16;
+
+!! Transparency (0-1):
+st.alpha: 0.80
+
+! st.termname: st-256color
+! st.borderpx: 2
+
+Xft.dpi:                        96
+Xft.antialias:                  1
+Xft.autohint:                   1
+Xft.hinting:                    1
+Xft.hintstyle:                  hintslight
+Xft.lcdfilter:                  lcdlight
+Xft.rgba:                       rgb
+
+! PaperColor Theme
+
+St.foreground: #4D4D4C
+
+St.background: #EEEEEE
+
+! black
+
+St.color0: #EDEDED
+
+St.color8: #969694
+
+! red
+
+St.color1: #D7005F
+
+St.color9: #D7005F
+
+! green
+
+St.color2: #718C00
+
+St.color10: #718C00
+
+! yellow / orange
+
+St.color3: #D75F00
+
+St.color11: #D75F00
+
+! blue
+
+St.color4: #4271AE
+
+St.color12: #4271AE
+
+! magenta
+
+St.color5: #8959A8
+
+St.color13: #8959A8
+
+! cyan
+
+St.color6: #3E999F
+
+St.color14: #3E999F
+
+! white
+
+St.color7: #4D4D4C
+
+St.color15: #F5F5F5
+

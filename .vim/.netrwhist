@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/hotshot/tests/generators/bla'
+let g:netrw_dirhist_2='/luv/repos/projects/take-aways/marquee-search-app'
+let g:netrw_dirhist_1='/luv/repos/pesto'
+let g:netrw_dirhist_0='/luv/repos/pesto/portfolios/basant-portfolio/src/components/toggle'
+let g:netrw_dirhist_9='/luv/repos/pesto/batch-11-exercises/node_modules'
+let g:netrw_dirhist_8='/luv/repos/pesto/batch-11-exercises'
+let g:netrw_dirhist_7='/luv/repos/pesto/batch-11-relayer/client/src/config'
+let g:netrw_dirhist_6='/luv/repos/pesto/batch-11-relayer/client/src'
+let g:netrw_dirhist_5='/luv/repos/pesto/sub-tasks/express-router'
+let g:netrw_dirhist_4='/luv/repos/pesto/sub-tasks/test-basics/src/__tests__'
